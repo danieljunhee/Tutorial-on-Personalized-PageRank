@@ -1,1 +1,1 @@
-# Tutorial-on-Personalized-PageRank
+This tutorial introduces a variant of the regular PageRank algorithm: personalized PageRank. It includes explanations about important properties of the regular PageRank algorithm, how personalization is applied in personalized PageRank, and some Python code for a simple example of personalized PageRank.
